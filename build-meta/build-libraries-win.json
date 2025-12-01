@@ -10,6 +10,7 @@
     "libxml2",
     "nghttp2",
     "curl",
+    "libffi-win",
     "libpng",
     "libwebp",
     "libjpeg",
@@ -17,6 +18,7 @@
     "icu-static-win",
     "onig",
     "sqlite",
+    "libsodium",
     "xz",
     "libzip"
 ]
