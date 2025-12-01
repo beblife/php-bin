@@ -4,6 +4,7 @@
     "ctype",
     "curl",
     "dom",
+    "ffi",
     "fileinfo",
     "filter",
     "zlib",
@@ -21,6 +22,7 @@
     "session",
     "simplexml",
     "sockets",
+    "sodium",
     "tokenizer",
     "xml",
     "zip"
