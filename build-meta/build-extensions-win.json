@@ -8,6 +8,7 @@
     "iconv",
     "xml",
     "dom",
+    "ffi",
     "fileinfo",
     "filter",
     "gd",
@@ -22,6 +23,7 @@
     "session",
     "simplexml",
     "sockets",
+    "sodium",
     "tokenizer",
     "zip"
 ]
